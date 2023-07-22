@@ -1,0 +1,12 @@
+{
+  "signUp": "Sign Up",
+  "username": "username",
+  "email": "email",
+  "password": "password",
+  "repeat": "repeat",
+  "passwordMismatchValidation": "Password mismatch",
+  "users": "Users",
+  "nextPage": "next >",
+  "previousPage": "< previous",
+  "login": "Login"
+}

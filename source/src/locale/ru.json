@@ -1,0 +1,12 @@
+{
+  "signUp": "Регистрация",
+  "username": "имя",
+  "email": "email",
+  "password": "пароль",
+  "repeat": "повторите пароль",
+  "passwordMismatchValidation": "Пароли не совпадают",
+  "users": "Пользователи",
+  "nextPage": "следующая >",
+  "previousPage": "< предыдущая",
+  "login": "Логин"
+}
